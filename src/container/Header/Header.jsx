@@ -9,7 +9,7 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
-      <p className="p__opensans" style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>A great fine dining server will be detail-oriented, observant, and intuitive. Anticipating the needs of guests while remaining unobtrusive is the key to providing the best service possible. Present the Menu and Drink List.</p>
       <button type="button" className="custom__button">Explore Menu</button>
     </div>
 
